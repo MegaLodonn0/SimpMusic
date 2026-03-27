@@ -1,0 +1,261 @@
+=== EKSIK ÇEVİRİLER LİSTESİ (86 adet) ===
+
+auto_backup
+  EN: Auto backup
+
+auto_backup_description
+  EN: Automatically backup your data to Downloads/SimpMusic folder
+
+auto_backup_failed
+  EN: Auto backup failed
+
+auto_backup_success
+  EN: Auto backup completed successfully
+
+backup_frequency
+  EN: Backup frequency
+
+better_lyrics
+  EN: BetterLyrics
+
+bpm
+  EN: BPM
+
+close_miniplayer
+  EN: Close Mini-player
+
+combine_local_and_youtube_liked_songs
+  EN: Replace Favorite by YouTube Liked when logged in
+
+combine_local_and_youtube_liked_songs_description
+  EN: Using only YouTube Liked (not support like a song when offline)
+
+copyright
+  EN: ©2023-2025 Tuan Minh Nguyen Duc (maxrave-dev)
+
+crossfade
+  EN: Crossfade (BETA)
+
+crossfade_auto
+  EN: Auto
+
+crossfade_auto_description
+  EN: Automatically calculate duration based on BPM (requires 320kbps stream with BPM data)
+
+crossfade_description
+  EN: Smoothly transition between songs by fading out the current track while fading in the next one.
+
+crossfade_dj_mode
+  EN: DJ-Style Transition
+
+crossfade_dj_mode_description
+  EN: Apply low-pass and high-pass filter sweeps during crossfade for a smoother, DJ-like transition (similar to Apple Music Automix).
+
+crossfading
+  EN: Crossfading
+
+daily
+  EN: Daily
+
+date_range
+  EN: Date range
+
+desktop_player
+  EN: Desktop player
+
+desktop_webview_description
+  EN: Because of the limitations of Compose Multiplatform, I can not implement WebView on desktop.\nRead this to learn more how to log in in desktop:\n
+
+discord_integration
+  EN: Discord integration
+
+downvote
+  EN: Downvote
+
+enable_liquid_glass_effect_description
+  EN: Enable iOS's liquid glass effect in some position (Android 13+)
+
+enable_rich_presence
+  EN: Enable rich presence
+
+intro_login_to_discord
+  EN: Log in to enable Discord Rich Presence
+
+keep_backups
+  EN: Keep backups
+
+keep_backups_format
+  EN: Keep last %1$s backups
+
+keep_service_alive
+  EN: Keep service alive
+
+keep_service_alive_description
+  EN: Keep music player service alive to avoid being killed by system
+
+keep_your_youtube_playlist_offline
+  EN: Keep showing your YouTube playlist when offline
+
+keep_your_youtube_playlist_offline_description
+  EN: Save your YT playlist to local and keep to show when offline
+
+key
+  EN: Key
+
+last_30_days
+  EN: Last 30 days
+
+last_7_days
+  EN: Last 7 days
+
+last_90_days
+  EN: Last 90 days
+
+last_backup
+  EN: Last backup
+
+local_tracking_description
+  EN: Log your listening history to local database
+
+local_tracking_title
+  EN: Local tracking listening history
+
+log_in_to_discord
+  EN: Log in to Discord
+
+lower_plays
+  EN: plays
+
+lrclib
+  EN: LRCLIB
+
+lyrics_provider_betterlyrics
+  EN: Lyrics provided by BetterLyrics
+
+monthly
+  EN: Monthly
+
+never
+  EN: Never
+
+no_charts_found
+  EN: No charts found
+
+no_data_analytics
+  EN: Please play some music to see analytics
+
+notification_channel_name
+  EN: SimpMusic Playback Notification
+
+open_app
+  EN: Open SimpMusic
+
+open_blog_post
+  EN: Open blog post
+
+open_miniplayer
+  EN: Open Mini-player
+
+openai_api_compatible
+  EN: Custom OpenAI Compatible
+
+podcasts
+  EN: Podcasts
+
+prefer_320kbps_stream
+  EN: Prefer 320kbps stream
+
+prefer_320kbps_stream_description
+  EN: Automatically search for 320kbps audio stream when available on the internet. Falls back to default quality if not found.
+
+proxy_password
+  EN: Proxy password
+
+proxy_password_message
+  EN: Please enter your Proxy password (optional)
+
+proxy_username
+  EN: Proxy username
+
+proxy_username_message
+  EN: Please enter your Proxy username (optional)
+
+quit_app
+  EN: Quit app
+
+rate_lyrics
+  EN: Rate lyrics
+
+rate_translated_lyrics
+  EN: Rate translation
+
+rich_presence_info
+  EN: Show media session info on your Discord profile
+
+scale
+  EN: Scale
+
+search_for
+  EN: Search for
+
+seconds
+  EN: seconds
+
+simpmusic_charts
+  EN: SimpMusic Charts
+
+sleep_timer_end_of_song
+  EN: Sleep Timer - End of song
+
+songs_played
+  EN: Songs played
+
+synced_playlist_cannot_change_order
+  EN: Synced playlist cannot change order
+
+this_year
+  EN: This year
+
+top_song
+  EN: Top song
+
+total_listened_time
+  EN: Total listened time
+
+upvote
+  EN: Upvote
+
+version_format
+  EN: v%1$s
+
+vote_error
+  EN: Failed to submit
+
+vote_for_lyrics
+  EN: Vote for lyrics
+
+vote_submitted
+  EN: Thank you for voting this lyrics!
+
+weekly
+  EN: Weekly
+
+your_320kbps_url
+  EN: Your 320kbps URL
+
+your_recently_played
+  EN: Your recently played
+
+your_top_albums
+  EN: Your top albums
+
+your_top_artists
+  EN: Your top artists
+
+your_top_tracks
+  EN: Your top tracks
+
+youtube_liked_music
+  EN: YouTube Liked Music
+
+
